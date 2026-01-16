@@ -1,0 +1,21 @@
+[project]
+name = "surro-optima-web-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.17.2",
+    "asyncpg>=0.31.0",
+    "dependency-injector[yaml]>=4.48.3",
+    "dotenv>=0.9.9",
+    "fastapi>=0.128.0",
+    "passlib>=1.7.4",
+    "psycopg>=3.3.2",
+    "psycopg-binary>=3.3.2",
+    "psycopg2>=2.9.11",
+    "pyjwt>=2.10.1",
+    "pytz>=2025.2",
+    "sqlalchemy>=2.0.45",
+    "uvicorn>=0.40.0",
+]
