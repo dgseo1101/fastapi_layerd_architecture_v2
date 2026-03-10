@@ -3,3 +3,5 @@
 *.pyc
 *.mako
 migrations/versions/*
+logs/*
+doc/**
